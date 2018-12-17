@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Registration";
+}
+
+<h2>City List</h2>
+
+<ul>
+    @foreach (string city in ViewBag.CityList){
+        <li>
+            @city
+        </li>
+    }
+</ul>
