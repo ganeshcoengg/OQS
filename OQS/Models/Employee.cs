@@ -13,5 +13,6 @@ namespace OQS.Models
         public String DepartmentCode { get; set; }
         public String CompnayName { get; set; }
         public String CompanyCode { get; set; }
+		public String CompanyAddress { get; set; }
     }
 }
