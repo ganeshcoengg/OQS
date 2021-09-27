@@ -1,4 +1,4 @@
-ALTER TABLE 
+ALTER TABLE
 	student01
 Add 
 	FirstName varchar(250),
