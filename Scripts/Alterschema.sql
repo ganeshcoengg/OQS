@@ -1,5 +1,5 @@
 ALTER TABLE 
-	student1
+	student102
 Add 
 	FirstName varchar(250),
 	LastName varchar(250),
